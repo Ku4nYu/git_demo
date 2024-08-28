@@ -1,18 +1,8 @@
 hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
-hello GIT 2024/08/26
 edited at 17:12
 edited at 17:19
+
+2024/08/28
+edited at 14:41
+this version is hot-fixed.
+
